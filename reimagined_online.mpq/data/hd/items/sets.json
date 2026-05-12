@@ -918,9 +918,9 @@
   },
   {
     "horazons_secrets": {
-      "normal": "grimoires/ars_torbaalos",
-      "uber": "grimoires/ars_torbaalos",
-      "ultra": "grimoires/ars_torbaalos"
+      "normal": "shield/bone_shield",
+      "uber": "shield/bone_shield",
+      "ultra": "shield/bone_shield"
     }
   },
   {
