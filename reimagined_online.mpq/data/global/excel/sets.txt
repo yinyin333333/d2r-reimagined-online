@@ -104,3 +104,6 @@ The Raven's Nest	The Raven's Nest	100	skill	Raven	5	5	ravensetwolf		1	1	res-all	
 Tools of Vindication	Tools of Vindication	100	skill	Vengeance	3	3																													res-all		30	30																													0
 Panda's Polar Adventure	Panda's Polar Adventure	100	pierce-cold		10	10	extra-cold		10	10	oskill	Polar Bear	10	10	oskill	Polar Claws	10	10	pierce-cold		10	10	extra-cold		10	10									extra-cold		20	20	oskill	Polar Bear	10	10	pierce-cold		20	20	oskill	Polar Claws	10	10	res-all		25	25													0
 Deus et Diabolus	Deus et Diabolus	100	skill	War Cry	2	2	abs-fire%		10	10																									allskills		3	3	red-dmg%		15	15	regen-mana		100	100																					0
+Horazon's Splendor	Horazon's Splendor	100	dex		20	20					enr		30	30					ac		300	300													res-all		50	50	allskills		3	3	dmg%		350	350	mag%		100	100	oskill	Enchant	30	30	state	fullsetgeneric	1	1									0
+Sines Psionics	Sines Psionics	100	swing1		20	20					allskills		1	1																					dmg%		100	100	red-dmg%		10	10	slow		10	10	hp		100	100	res-all		30	30	nofreeze		1	1									0
+Warlord's Glory	Warlord's Glory	100	lifesteal		15	15					ac		150	150																					allskills		1	1	aura_display	Meditation	10	10	red-dmg	0	9	9	res-fire	0	15	15	mana		20	20													0
